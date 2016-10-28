@@ -1,3 +1,3 @@
 # hello-world
-It has begun \n
+It has begun 
 So that's nice and all. 
